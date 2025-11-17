@@ -1,8 +1,7 @@
-# Netology-BD-4
 
 # Домашнее задание к занятию "`SQL. Часть 2`" - `Фомичев Анатолий`
 
-##Ссылка на ДЗ - https://github.com/netology-code/sdb-homeworks/blob/main/12-04.md
+## Ссылка на ДЗ - https://github.com/netology-code/sdb-homeworks/blob/main/12-04.md
 
 
 ### Задание 1
